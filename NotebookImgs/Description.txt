@@ -1,0 +1,1 @@
+This folder contains images to use in the notebooks for the SCA course
